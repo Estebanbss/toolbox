@@ -15,7 +15,7 @@ El repositorio se organiza de la siguiente manera:
 ### Keylogger (spykey.py)
 
 - **Descripción**: Este programa registra las teclas presionadas en el teclado y almacena la información en un archivo de registro.
-- **Uso**: Consulta el [README.md en la carpeta cybersecurity](cybersecurity/README.md) para obtener instrucciones detalladas sobre cómo ejecutar y personalizar este programa.
+- **Uso**: Consulta el [README.md en la carpeta cybersecurity](cybersecurity/keylogger/README.md) para obtener instrucciones detalladas sobre cómo ejecutar y personalizar este programa.
 
 ## Contribuciones
 
